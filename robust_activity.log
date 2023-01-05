@@ -13,3 +13,4 @@ Robust Activity at 2023-01-04T18:23:53: Enhance logging for debugging production
 Robust Activity at 2023-01-04T15:06:36: Add support for multi-GPU training
 Robust Activity at 2023-01-04T13:21:09: Refactor data loader for faster training
 Robust Activity at 2023-01-05T17:57:30: Merge feature branch into main
+Robust Activity at 2023-01-05T11:03:05: Benchmark inference latency across devices
