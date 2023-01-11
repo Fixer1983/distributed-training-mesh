@@ -29,3 +29,4 @@ Robust Activity at 2023-01-11T10:46:34: Address code review feedback
 Robust Activity at 2023-01-11T18:44:52: Improve model serialization and loading
 Robust Activity at 2023-01-11T15:28:17: Refactor data loader for faster training
 Robust Activity at 2023-01-11T17:31:51: Optimize GPU memory allocation
+Robust Activity at 2023-01-11T13:45:31: Benchmark inference latency across devices
