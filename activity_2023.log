@@ -98,3 +98,4 @@
 2023 Activity at 2023-01-30T18:55:55: Benchmark inference latency across devices
 2023 Activity at 2023-01-30T10:18:36: Improve model serialization and loading
 2023 Activity at 2023-01-30T18:20:38: Add support for multi-GPU training
+2023 Activity at 2023-01-30T10:21:43: Clean up unused variables and functions
