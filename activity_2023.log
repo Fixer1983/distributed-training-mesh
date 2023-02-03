@@ -114,3 +114,4 @@
 2023 Activity at 2023-02-03T09:53:49: Add support for transformer-based models
 2023 Activity at 2023-02-03T14:51:07: Add unit tests for core modules
 2023 Activity at 2023-02-03T10:57:24: Implement early stopping in training loop
+2023 Activity at 2023-02-03T14:26:10: Update README with new performance metrics
