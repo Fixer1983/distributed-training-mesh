@@ -112,3 +112,4 @@
 2023 Activity at 2023-02-03T12:57:10: Merge feature branch into main
 2023 Activity at 2023-02-03T18:47:32: Fix bug in loss function calculation
 2023 Activity at 2023-02-03T09:53:49: Add support for transformer-based models
+2023 Activity at 2023-02-03T14:51:07: Add unit tests for core modules
