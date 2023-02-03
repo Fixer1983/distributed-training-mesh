@@ -110,3 +110,4 @@
 2023 Activity at 2023-01-31T13:56:51: Update README with new performance metrics
 2023 Activity at 2023-01-31T10:49:56: Implement early stopping in training loop
 2023 Activity at 2023-02-03T12:57:10: Merge feature branch into main
+2023 Activity at 2023-02-03T18:47:32: Fix bug in loss function calculation
