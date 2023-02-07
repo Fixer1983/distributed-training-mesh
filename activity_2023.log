@@ -121,3 +121,4 @@
 2023 Activity at 2023-02-07T16:15:29: Optimize GPU memory allocation
 2023 Activity at 2023-02-07T12:28:17: Fix bug in loss function calculation
 2023 Activity at 2023-02-07T13:58:48: Merge feature branch into main
+2023 Activity at 2023-02-07T18:10:32: Implement early stopping in training loop
