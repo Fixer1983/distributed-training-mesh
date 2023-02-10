@@ -67,3 +67,4 @@ Robust Activity at 2023-02-09T10:38:03: Sync with upstream repository changes
 Robust Activity at 2023-02-09T14:44:15: Update README with new performance metrics
 Robust Activity at 2023-02-09T12:57:14: Add support for multi-GPU training
 Robust Activity at 2023-02-09T14:13:29: Add unit tests for core modules
+Robust Activity at 2023-02-10T18:31:49: Add support for transformer-based models
