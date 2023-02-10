@@ -153,3 +153,4 @@
 2023 Activity at 2023-02-10T14:59:04: Refactor data loader for faster training
 2023 Activity at 2023-02-10T16:54:47: Update README with new performance metrics
 2023 Activity at 2023-02-10T14:37:29: Update dependencies to latest stable versions
+2023 Activity at 2023-02-10T13:05:56: Benchmark inference latency across devices
