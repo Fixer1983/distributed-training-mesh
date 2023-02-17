@@ -75,3 +75,4 @@ Robust Activity at 2023-02-10T13:08:26: Refactor data loader for faster training
 Robust Activity at 2023-02-10T09:03:21: Add support for multi-GPU training
 Robust Activity at 2023-02-17T09:10:58: Add support for multi-GPU training
 Robust Activity at 2023-02-17T10:27:34: Sync with upstream repository changes
+Robust Activity at 2023-02-17T14:34:26: Implement early stopping in training loop
