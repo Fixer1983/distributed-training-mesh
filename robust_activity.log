@@ -78,3 +78,4 @@ Robust Activity at 2023-02-17T10:27:34: Sync with upstream repository changes
 Robust Activity at 2023-02-17T14:34:26: Implement early stopping in training loop
 Robust Activity at 2023-02-22T12:31:37: Fix race condition in data pipeline
 Robust Activity at 2023-02-22T18:02:30: Update README with new performance metrics
+Robust Activity at 2023-02-22T15:32:03: Add support for transformer-based models
