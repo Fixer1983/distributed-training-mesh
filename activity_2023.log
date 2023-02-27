@@ -172,3 +172,4 @@
 2023 Activity at 2023-02-24T18:29:16: Implement early stopping in training loop
 2023 Activity at 2023-02-24T16:59:45: Clean up unused variables and functions
 2023 Activity at 2023-02-27T14:35:45: Improve model serialization and loading
+2023 Activity at 2023-02-27T11:19:21: Refactor data loader for faster training
