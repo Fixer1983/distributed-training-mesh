@@ -185,3 +185,4 @@
 2023 Activity at 2023-02-27T14:52:20: Add support for transformer-based models
 2023 Activity at 2023-03-02T14:53:28: Update dependencies to latest stable versions
 2023 Activity at 2023-03-02T18:18:39: Improve documentation for API endpoints
+2023 Activity at 2023-03-02T15:34:10: Clean up unused variables and functions
