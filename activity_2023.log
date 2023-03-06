@@ -197,3 +197,4 @@
 2023 Activity at 2023-03-06T12:23:19: Optimize neural network architecture
 2023 Activity at 2023-03-06T12:13:22: Optimize GPU memory allocation
 2023 Activity at 2023-03-06T14:56:34: Benchmark inference latency across devices
+2023 Activity at 2023-03-06T09:32:23: Add support for transformer-based models
