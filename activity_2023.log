@@ -191,3 +191,4 @@
 2023 Activity at 2023-03-03T09:46:16: Implement early stopping in training loop
 2023 Activity at 2023-03-03T09:29:41: Optimize GPU memory allocation
 2023 Activity at 2023-03-03T19:38:00: Implement early stopping in training loop
+2023 Activity at 2023-03-06T10:56:34: Add unit tests for core modules
