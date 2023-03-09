@@ -102,3 +102,4 @@ Robust Activity at 2023-03-07T10:05:19: Add support for multi-GPU training
 Robust Activity at 2023-03-07T16:25:13: Optimize GPU memory allocation
 Robust Activity at 2023-03-07T14:45:51: Add unit tests for core modules
 Robust Activity at 2023-03-07T16:02:43: Optimize neural network architecture
+Robust Activity at 2023-03-09T18:10:37: Add support for transformer-based models
