@@ -105,3 +105,4 @@ Robust Activity at 2023-03-07T16:02:43: Optimize neural network architecture
 Robust Activity at 2023-03-09T18:10:37: Add support for transformer-based models
 Robust Activity at 2023-03-09T15:48:30: Update dependencies to latest stable versions
 Robust Activity at 2023-03-09T16:51:31: Implement early stopping in training loop
+Robust Activity at 2023-03-09T11:18:06: Optimize GPU memory allocation
