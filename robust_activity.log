@@ -112,3 +112,4 @@ Robust Activity at 2023-03-14T13:13:00: Update README with new performance metri
 Robust Activity at 2023-03-14T09:42:34: Refactor data loader for faster training
 Robust Activity at 2023-03-14T10:16:42: Improve model serialization and loading
 Robust Activity at 2023-03-14T18:32:31: Implement early stopping in training loop
+Robust Activity at 2023-03-14T13:55:22: Add unit tests for core modules
