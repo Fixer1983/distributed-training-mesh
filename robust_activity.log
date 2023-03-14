@@ -108,3 +108,4 @@ Robust Activity at 2023-03-09T16:51:31: Implement early stopping in training loo
 Robust Activity at 2023-03-09T11:18:06: Optimize GPU memory allocation
 Robust Activity at 2023-03-09T14:10:42: Initial prototype for feature extraction
 Robust Activity at 2023-03-14T16:59:24: Add support for multi-GPU training
+Robust Activity at 2023-03-14T13:13:00: Update README with new performance metrics
