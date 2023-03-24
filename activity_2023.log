@@ -243,3 +243,4 @@
 2023 Activity at 2023-03-24T16:49:02: Add support for multi-GPU training
 2023 Activity at 2023-03-24T12:34:24: Initial prototype for feature extraction
 2023 Activity at 2023-03-24T19:48:44: Implement early stopping in training loop
+2023 Activity at 2023-03-24T11:23:00: Add unit tests for core modules
