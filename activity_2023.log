@@ -248,3 +248,4 @@
 2023 Activity at 2023-03-24T19:43:07: Add support for transformer-based models
 2023 Activity at 2023-03-24T10:13:09: Initial prototype for feature extraction
 2023 Activity at 2023-03-29T12:29:48: Merge feature branch into main
+2023 Activity at 2023-03-29T15:24:03: Optimize GPU memory allocation
