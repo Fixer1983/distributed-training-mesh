@@ -267,3 +267,4 @@
 2023 Activity at 2023-04-03T16:32:51: Fix race condition in data pipeline
 2023 Activity at 2023-04-03T17:56:40: Refactor data loader for faster training
 2023 Activity at 2023-04-03T10:49:07: Address code review feedback
+2023 Activity at 2023-04-03T17:52:45: Add support for transformer-based models
