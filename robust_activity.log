@@ -143,3 +143,4 @@ Robust Activity at 2023-04-12T09:20:38: Sync with upstream repository changes
 Robust Activity at 2023-04-12T12:24:30: Fix bug in loss function calculation
 Robust Activity at 2023-04-12T14:38:06: Fix bug in loss function calculation
 Robust Activity at 2023-04-12T13:34:26: Implement early stopping in training loop
+Robust Activity at 2023-04-12T14:38:46: Add unit tests for core modules
