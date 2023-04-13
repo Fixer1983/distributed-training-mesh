@@ -144,3 +144,4 @@ Robust Activity at 2023-04-12T12:24:30: Fix bug in loss function calculation
 Robust Activity at 2023-04-12T14:38:06: Fix bug in loss function calculation
 Robust Activity at 2023-04-12T13:34:26: Implement early stopping in training loop
 Robust Activity at 2023-04-12T14:38:46: Add unit tests for core modules
+Robust Activity at 2023-04-13T09:53:22: Refactor data loader for faster training
