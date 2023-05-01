@@ -165,3 +165,4 @@ Robust Activity at 2023-04-28T16:10:10: Improve documentation for API endpoints
 Robust Activity at 2023-04-28T16:16:58: Fix bug in loss function calculation
 Robust Activity at 2023-05-01T09:32:18: Add support for multi-GPU training
 Robust Activity at 2023-05-01T11:24:53: Address code review feedback
+Robust Activity at 2023-05-01T12:33:56: Add unit tests for core modules
