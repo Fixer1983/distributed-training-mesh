@@ -194,3 +194,4 @@ Robust Activity at 2023-05-11T09:28:55: Add unit tests for core modules
 Robust Activity at 2023-05-11T09:20:15: Fix bug in loss function calculation
 Robust Activity at 2023-05-12T10:06:49: Fix bug in loss function calculation
 Robust Activity at 2023-05-12T18:40:21: Initial prototype for feature extraction
+Robust Activity at 2023-05-12T09:11:22: Refactor data loader for faster training
