@@ -192,3 +192,4 @@ Robust Activity at 2023-05-11T18:52:44: Add support for multi-GPU training
 Robust Activity at 2023-05-11T18:47:32: Add support for multi-GPU training
 Robust Activity at 2023-05-11T09:28:55: Add unit tests for core modules
 Robust Activity at 2023-05-11T09:20:15: Fix bug in loss function calculation
+Robust Activity at 2023-05-12T10:06:49: Fix bug in loss function calculation
