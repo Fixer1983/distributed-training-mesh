@@ -200,3 +200,4 @@ Robust Activity at 2023-05-12T17:41:51: Benchmark inference latency across devic
 Robust Activity at 2023-05-15T15:35:47: Address code review feedback
 Robust Activity at 2023-05-15T16:42:00: Fix bug in loss function calculation
 Robust Activity at 2023-05-17T17:10:44: Refactor data loader for faster training
+Robust Activity at 2023-05-17T18:15:45: Improve documentation for API endpoints
