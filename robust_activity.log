@@ -212,3 +212,4 @@ Robust Activity at 2023-05-22T14:04:17: Update dependencies to latest stable ver
 Robust Activity at 2023-05-22T18:42:01: Initial prototype for feature extraction
 Robust Activity at 2023-05-22T14:18:22: Benchmark inference latency across devices
 Robust Activity at 2023-05-23T14:39:39: Update README with new performance metrics
+Robust Activity at 2023-05-23T15:36:06: Refactor data loader for faster training
