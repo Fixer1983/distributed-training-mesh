@@ -308,3 +308,4 @@ Robust Activity at 2023-07-13T14:36:43: Update README with new performance metri
 Robust Activity at 2023-07-13T17:28:02: Implement early stopping in training loop
 Robust Activity at 2023-07-13T11:22:12: Update dependencies to latest stable versions
 Robust Activity at 2023-07-13T12:18:20: Improve model serialization and loading
+Robust Activity at 2023-07-13T16:24:46: Benchmark inference latency across devices
