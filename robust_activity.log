@@ -331,3 +331,4 @@ Robust Activity at 2023-07-20T14:04:44: Clean up unused variables and functions
 Robust Activity at 2023-07-20T17:41:06: Add unit tests for core modules
 Robust Activity at 2023-07-24T17:48:57: Add support for transformer-based models
 Robust Activity at 2023-07-24T09:55:03: Initial prototype for feature extraction
+Robust Activity at 2023-07-24T14:27:50: Update dependencies to latest stable versions
