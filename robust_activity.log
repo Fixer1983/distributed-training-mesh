@@ -342,3 +342,4 @@ Robust Activity at 2023-07-25T11:08:04: Update README with new performance metri
 Robust Activity at 2023-07-25T18:42:40: Initial prototype for feature extraction
 Robust Activity at 2023-07-26T16:09:08: Improve model serialization and loading
 Robust Activity at 2023-07-26T16:06:25: Address code review feedback
+Robust Activity at 2023-07-26T16:32:39: Fix bug in loss function calculation
