@@ -378,3 +378,4 @@ Robust Activity at 2023-08-16T10:30:00: Improve model serialization and loading
 Robust Activity at 2023-08-16T11:47:54: Update dependencies to latest stable versions
 Robust Activity at 2023-08-21T09:03:19: Improve documentation for API endpoints
 Robust Activity at 2023-08-21T16:50:32: Optimize neural network architecture
+Robust Activity at 2023-08-24T16:42:33: Add unit tests for core modules
