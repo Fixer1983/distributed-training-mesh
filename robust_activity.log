@@ -450,3 +450,4 @@ Robust Activity at 2023-09-29T13:31:06: Initial prototype for feature extraction
 Robust Activity at 2023-10-04T13:33:28: Enhance logging for debugging production issues
 Robust Activity at 2023-10-04T15:57:25: Merge feature branch into main
 Robust Activity at 2023-10-04T11:34:54: Implement early stopping in training loop
+Robust Activity at 2023-10-04T15:56:17: Add unit tests for core modules
