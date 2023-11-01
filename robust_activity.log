@@ -499,3 +499,4 @@ Robust Activity at 2023-11-01T14:46:53: Update README with new performance metri
 Robust Activity at 2023-11-01T13:47:20: Clean up unused variables and functions
 Robust Activity at 2023-11-01T11:19:31: Fix bug in loss function calculation
 Robust Activity at 2023-11-01T13:51:02: Add unit tests for core modules
+Robust Activity at 2023-11-01T11:42:54: Optimize GPU memory allocation
