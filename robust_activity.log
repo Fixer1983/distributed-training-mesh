@@ -539,3 +539,4 @@ Robust Activity at 2023-11-23T15:44:37: Add support for transformer-based models
 Robust Activity at 2023-11-24T11:05:51: Update README with new performance metrics
 Robust Activity at 2023-11-24T11:19:10: Update README with new performance metrics
 Robust Activity at 2023-11-24T14:42:42: Benchmark inference latency across devices
+Robust Activity at 2023-11-24T11:37:52: Add support for multi-GPU training
