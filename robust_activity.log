@@ -566,3 +566,4 @@ Robust Activity at 2023-12-08T15:13:42: Benchmark inference latency across devic
 Robust Activity at 2023-12-08T12:27:39: Address code review feedback
 Robust Activity at 2023-12-11T11:39:24: Update README with new performance metrics
 Robust Activity at 2023-12-11T18:01:02: Initial prototype for feature extraction
+Robust Activity at 2023-12-11T16:10:09: Refactor data loader for faster training
