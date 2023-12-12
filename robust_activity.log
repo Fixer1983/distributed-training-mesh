@@ -569,3 +569,4 @@ Robust Activity at 2023-12-11T18:01:02: Initial prototype for feature extraction
 Robust Activity at 2023-12-11T16:10:09: Refactor data loader for faster training
 Robust Activity at 2023-12-11T13:22:03: Add support for transformer-based models
 Robust Activity at 2023-12-11T13:44:48: Improve model serialization and loading
+Robust Activity at 2023-12-12T10:07:31: Add support for multi-GPU training
