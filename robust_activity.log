@@ -575,3 +575,4 @@ Robust Activity at 2023-12-13T11:12:32: Fix bug in loss function calculation
 Robust Activity at 2023-12-13T15:01:06: Add unit tests for core modules
 Robust Activity at 2023-12-13T13:28:41: Optimize GPU memory allocation
 Robust Activity at 2023-12-13T18:34:24: Sync with upstream repository changes
+Robust Activity at 2023-12-13T12:38:12: Add support for multi-GPU training
