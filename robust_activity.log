@@ -585,3 +585,4 @@ Robust Activity at 2023-12-15T13:24:51: Optimize neural network architecture
 Robust Activity at 2023-12-15T18:44:37: Fix bug in loss function calculation
 Robust Activity at 2023-12-15T18:21:41: Implement early stopping in training loop
 Robust Activity at 2023-12-19T13:31:13: Implement early stopping in training loop
+Robust Activity at 2023-12-19T16:19:03: Add support for transformer-based models
