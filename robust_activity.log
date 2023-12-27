@@ -601,3 +601,4 @@ Robust Activity at 2023-12-22T13:48:28: Refactor data loader for faster training
 Robust Activity at 2023-12-22T09:19:16: Fix bug in loss function calculation
 Robust Activity at 2023-12-22T15:45:05: Add support for multi-GPU training
 Robust Activity at 2023-12-27T17:09:06: Optimize neural network architecture
+Robust Activity at 2023-12-27T14:05:32: Clean up unused variables and functions
