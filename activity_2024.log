@@ -24,3 +24,4 @@
 2024 Activity at 2024-01-10T18:42:28: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-01-10T09:26:30: Merge feature branch into main for the next release
 2024 Activity at 2024-01-10T18:29:42: Add support for transformer-based models in inference
+2024 Activity at 2024-01-10T09:04:38: Optimize GPU memory allocation for large models
