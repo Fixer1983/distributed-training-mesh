@@ -21,3 +21,4 @@
 2024 Activity at 2024-01-08T18:04:19: Update dependencies to latest stable versions (2024)
 2024 Activity at 2024-01-08T17:12:15: Add support for transformer-based models in inference
 2024 Activity at 2024-01-08T14:42:20: Update README with latest performance benchmarks
+2024 Activity at 2024-01-10T18:42:28: Initial prototype for feature extraction in real-time
