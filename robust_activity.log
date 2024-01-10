@@ -613,3 +613,4 @@ Robust Activity at 2023-12-28T18:47:04: Initial prototype for feature extraction
 Robust Activity at 2023-12-28T16:33:16: Update dependencies to latest stable versions
 Robust Activity at 2024-01-05T11:07:07: Add support for transformer-based models
 Robust Activity at 2024-01-05T16:45:37: Clean up unused variables and functions
+Robust Activity at 2024-01-10T13:41:50: Refactor data loader for faster training
