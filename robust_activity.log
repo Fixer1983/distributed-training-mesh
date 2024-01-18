@@ -631,3 +631,4 @@ Robust Activity at 2024-01-18T12:48:53: Address code review feedback
 Robust Activity at 2024-01-18T09:04:17: Implement early stopping in training loop
 Robust Activity at 2024-01-18T10:12:25: Update README with new performance metrics
 Robust Activity at 2024-01-18T12:38:52: Improve documentation for API endpoints
+Robust Activity at 2024-01-18T17:20:13: Benchmark inference latency across devices
