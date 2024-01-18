@@ -626,3 +626,4 @@ Robust Activity at 2024-01-17T10:30:22: Refactor data loader for faster training
 Robust Activity at 2024-01-17T14:48:06: Implement early stopping in training loop
 Robust Activity at 2024-01-17T12:54:05: Implement early stopping in training loop
 Robust Activity at 2024-01-17T12:52:52: Sync with upstream repository changes
+Robust Activity at 2024-01-18T16:43:29: Add unit tests for core modules
