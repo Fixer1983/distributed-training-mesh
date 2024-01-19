@@ -634,3 +634,4 @@ Robust Activity at 2024-01-18T12:38:52: Improve documentation for API endpoints
 Robust Activity at 2024-01-18T17:20:13: Benchmark inference latency across devices
 Robust Activity at 2024-01-19T15:07:38: Improve model serialization and loading
 Robust Activity at 2024-01-19T10:35:49: Update dependencies to latest stable versions
+Robust Activity at 2024-01-19T15:25:52: Update README with new performance metrics
