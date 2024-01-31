@@ -73,3 +73,4 @@
 2024 Activity at 2024-01-31T18:44:41: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-01-31T17:37:29: Improve model serialization and loading efficiency
 2024 Activity at 2024-01-31T13:45:36: Add support for multi-GPU training via DDP
+2024 Activity at 2024-01-31T18:36:41: Add support for transformer-based models in inference
