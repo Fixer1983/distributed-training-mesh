@@ -96,3 +96,4 @@
 2024 Activity at 2024-02-06T10:07:16: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-02-06T19:30:14: Improve documentation for REST API endpoints
 2024 Activity at 2024-02-06T17:01:22: Benchmark inference latency across multiple devices
+2024 Activity at 2024-02-06T17:47:39: Add support for transformer-based models in inference
