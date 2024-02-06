@@ -89,3 +89,4 @@
 2024 Activity at 2024-02-05T13:09:51: Add support for multi-GPU training via DDP
 2024 Activity at 2024-02-05T16:10:26: Update dependencies to latest stable versions (2024)
 2024 Activity at 2024-02-06T15:41:43: Merge feature branch into main for the next release
+2024 Activity at 2024-02-06T11:51:56: Implement early stopping logic in the training loop
