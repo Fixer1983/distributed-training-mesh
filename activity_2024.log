@@ -98,3 +98,4 @@
 2024 Activity at 2024-02-06T17:01:22: Benchmark inference latency across multiple devices
 2024 Activity at 2024-02-06T17:47:39: Add support for transformer-based models in inference
 2024 Activity at 2024-02-09T17:11:37: Address code review feedback from the senior team
+2024 Activity at 2024-02-09T16:50:23: Refactor data loading pipeline for higher throughput
