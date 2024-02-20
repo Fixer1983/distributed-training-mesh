@@ -116,3 +116,4 @@
 2024 Activity at 2024-02-15T15:22:10: Update README with latest performance benchmarks
 2024 Activity at 2024-02-15T13:01:32: Add comprehensive unit tests for core ML modules
 2024 Activity at 2024-02-20T11:24:50: Add support for multi-GPU training via DDP
+2024 Activity at 2024-02-20T14:27:46: Add support for transformer-based models in inference
