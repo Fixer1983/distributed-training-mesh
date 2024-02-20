@@ -679,3 +679,4 @@ Robust Activity at 2024-02-13T18:40:31: Clean up unused variables and functions
 Robust Activity at 2024-02-14T11:20:27: Address code review feedback
 Robust Activity at 2024-02-14T09:43:48: Address code review feedback
 Robust Activity at 2024-02-20T15:52:23: Improve documentation for API endpoints
+Robust Activity at 2024-02-20T14:01:07: Fix bug in loss function calculation
