@@ -686,3 +686,4 @@ Robust Activity at 2024-02-20T13:43:18: Refactor data loader for faster training
 Robust Activity at 2024-02-21T11:49:15: Sync with upstream repository changes
 Robust Activity at 2024-02-21T11:52:20: Address code review feedback
 Robust Activity at 2024-02-21T17:49:06: Improve model serialization and loading
+Robust Activity at 2024-02-21T15:57:47: Add support for transformer-based models
