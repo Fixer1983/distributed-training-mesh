@@ -704,3 +704,4 @@ Robust Activity at 2024-02-26T09:23:25: Update dependencies to latest stable ver
 Robust Activity at 2024-02-27T14:21:41: Update dependencies to latest stable versions
 Robust Activity at 2024-02-27T11:45:11: Initial prototype for feature extraction
 Robust Activity at 2024-02-27T17:37:41: Add support for multi-GPU training
+Robust Activity at 2024-02-27T18:44:14: Add support for transformer-based models
