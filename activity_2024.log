@@ -145,3 +145,4 @@
 2024 Activity at 2024-02-28T13:49:30: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-02-28T13:33:10: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-02-28T17:31:47: Update README with latest performance benchmarks
+2024 Activity at 2024-02-28T13:23:10: Implement early stopping logic in the training loop
