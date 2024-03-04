@@ -153,3 +153,4 @@
 2024 Activity at 2024-03-01T13:37:22: Add support for multi-GPU training via DDP
 2024 Activity at 2024-03-01T09:42:17: Add support for transformer-based models in inference
 2024 Activity at 2024-03-04T12:43:30: Address code review feedback from the senior team
+2024 Activity at 2024-03-04T11:05:00: Refactor data loading pipeline for higher throughput
