@@ -722,3 +722,4 @@ Robust Activity at 2024-03-07T12:07:39: Initial prototype for feature extraction
 Robust Activity at 2024-03-07T12:26:19: Add unit tests for core modules
 Robust Activity at 2024-03-07T11:25:50: Update README with new performance metrics
 Robust Activity at 2024-03-11T18:21:54: Optimize GPU memory allocation
+Robust Activity at 2024-03-11T18:23:15: Add support for multi-GPU training
