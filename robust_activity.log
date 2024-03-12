@@ -725,3 +725,4 @@ Robust Activity at 2024-03-11T18:21:54: Optimize GPU memory allocation
 Robust Activity at 2024-03-11T18:23:15: Add support for multi-GPU training
 Robust Activity at 2024-03-11T09:14:13: Sync with upstream repository changes
 Robust Activity at 2024-03-12T11:16:42: Initial prototype for feature extraction
+Robust Activity at 2024-03-12T16:26:41: Add support for transformer-based models
