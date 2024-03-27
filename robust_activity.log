@@ -758,3 +758,4 @@ Robust Activity at 2024-03-26T10:05:03: Add support for transformer-based models
 Robust Activity at 2024-03-27T14:28:46: Update README with new performance metrics
 Robust Activity at 2024-03-27T15:49:27: Implement early stopping in training loop
 Robust Activity at 2024-03-27T14:51:45: Address code review feedback
+Robust Activity at 2024-03-27T11:35:46: Clean up unused variables and functions
