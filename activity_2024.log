@@ -230,3 +230,4 @@
 2024 Activity at 2024-03-29T11:06:36: Refactor data loading pipeline for higher throughput
 2024 Activity at 2024-03-29T12:56:38: Add support for transformer-based models in inference
 2024 Activity at 2024-03-29T13:17:03: Fix bug in loss function calculation for edge cases
+2024 Activity at 2024-04-01T16:05:06: Merge feature branch into main for the next release
