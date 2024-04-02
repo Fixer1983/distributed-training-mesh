@@ -235,3 +235,4 @@
 2024 Activity at 2024-04-01T10:39:35: Merge feature branch into main for the next release
 2024 Activity at 2024-04-01T12:52:26: Improve documentation for REST API endpoints
 2024 Activity at 2024-04-01T10:45:31: Initial prototype for feature extraction in real-time
+2024 Activity at 2024-04-02T14:42:46: Add support for multi-GPU training via DDP
