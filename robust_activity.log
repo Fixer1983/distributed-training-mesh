@@ -797,3 +797,4 @@ Robust Activity at 2024-05-01T12:13:12: Optimize GPU memory allocation
 Robust Activity at 2024-05-01T09:36:23: Refactor data loader for faster training
 Robust Activity at 2024-05-01T16:00:36: Benchmark inference latency across devices
 Robust Activity at 2024-05-01T16:00:49: Benchmark inference latency across devices
+Robust Activity at 2024-05-03T15:37:35: Update README with new performance metrics
