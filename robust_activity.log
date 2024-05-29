@@ -838,3 +838,4 @@ Robust Activity at 2024-05-27T18:32:53: Clean up unused variables and functions
 Robust Activity at 2024-05-27T12:57:24: Implement early stopping in training loop
 Robust Activity at 2024-05-29T14:24:24: Implement early stopping in training loop
 Robust Activity at 2024-05-29T14:47:38: Fix bug in loss function calculation
+Robust Activity at 2024-05-29T11:06:52: Optimize neural network architecture
