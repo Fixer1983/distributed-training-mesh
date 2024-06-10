@@ -862,3 +862,4 @@ Robust Activity at 2024-06-07T10:05:31: Add support for multi-GPU training
 Robust Activity at 2024-06-07T11:35:41: Merge feature branch into main
 Robust Activity at 2024-06-10T10:04:57: Optimize GPU memory allocation
 Robust Activity at 2024-06-10T16:08:24: Improve documentation for API endpoints
+Robust Activity at 2024-06-10T18:53:16: Clean up unused variables and functions
