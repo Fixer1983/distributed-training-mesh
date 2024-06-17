@@ -880,3 +880,4 @@ Robust Activity at 2024-06-13T13:57:39: Clean up unused variables and functions
 Robust Activity at 2024-06-13T14:52:50: Refactor data loader for faster training
 Robust Activity at 2024-06-17T13:35:56: Benchmark inference latency across devices
 Robust Activity at 2024-06-17T16:29:45: Improve documentation for API endpoints
+Robust Activity at 2024-06-17T18:14:02: Fix bug in loss function calculation
