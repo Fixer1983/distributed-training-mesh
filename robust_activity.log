@@ -940,3 +940,4 @@ Robust Activity at 2024-07-26T17:05:30: Fix bug in loss function calculation
 Robust Activity at 2024-07-26T15:40:18: Refactor data loader for faster training
 Robust Activity at 2024-07-26T14:07:40: Fix bug in loss function calculation
 Robust Activity at 2024-07-26T11:19:42: Clean up unused variables and functions
+Robust Activity at 2024-07-26T11:50:38: Add unit tests for core modules
