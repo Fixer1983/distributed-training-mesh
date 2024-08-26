@@ -993,3 +993,4 @@ Robust Activity at 2024-08-23T14:47:44: Benchmark inference latency across devic
 Robust Activity at 2024-08-23T18:16:50: Initial prototype for feature extraction
 Robust Activity at 2024-08-26T11:53:10: Initial prototype for feature extraction
 Robust Activity at 2024-08-26T18:16:29: Add unit tests for core modules
+Robust Activity at 2024-08-26T12:21:58: Clean up unused variables and functions
