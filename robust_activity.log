@@ -1025,3 +1025,4 @@ Robust Activity at 2024-09-13T09:42:35: Improve model serialization and loading
 Robust Activity at 2024-09-13T10:18:25: Fix bug in loss function calculation
 Robust Activity at 2024-09-18T09:29:23: Fix race condition in data pipeline
 Robust Activity at 2024-09-18T09:42:07: Merge feature branch into main
+Robust Activity at 2024-09-23T10:09:13: Improve documentation for API endpoints
