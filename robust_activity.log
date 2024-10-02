@@ -1039,3 +1039,4 @@ Robust Activity at 2024-10-01T16:13:51: Improve model serialization and loading
 Robust Activity at 2024-10-02T16:40:51: Update README with new performance metrics
 Robust Activity at 2024-10-02T15:22:56: Add unit tests for core modules
 Robust Activity at 2024-10-02T14:18:10: Refactor data loader for faster training
+Robust Activity at 2024-10-02T09:30:22: Refactor data loader for faster training
