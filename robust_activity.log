@@ -1075,3 +1075,4 @@ Robust Activity at 2024-10-18T18:01:47: Benchmark inference latency across devic
 Robust Activity at 2024-10-21T14:05:14: Add support for multi-GPU training
 Robust Activity at 2024-10-21T16:23:39: Add support for multi-GPU training
 Robust Activity at 2024-10-23T11:11:30: Fix bug in loss function calculation
+Robust Activity at 2024-10-23T12:48:37: Improve documentation for API endpoints
