@@ -1096,3 +1096,4 @@ Robust Activity at 2024-10-31T11:17:53: Initial prototype for feature extraction
 Robust Activity at 2024-11-01T11:02:42: Update README with new performance metrics
 Robust Activity at 2024-11-01T15:42:26: Update README with new performance metrics
 Robust Activity at 2024-11-01T12:13:36: Improve model serialization and loading
+Robust Activity at 2024-11-04T17:17:48: Optimize GPU memory allocation
