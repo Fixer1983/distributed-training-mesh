@@ -1136,3 +1136,4 @@ Robust Activity at 2024-11-20T09:04:29: Benchmark inference latency across devic
 Robust Activity at 2024-11-20T12:04:18: Add support for transformer-based models
 Robust Activity at 2024-11-20T14:31:42: Add unit tests for core modules
 Robust Activity at 2024-11-20T15:56:48: Add unit tests for core modules
+Robust Activity at 2024-11-20T16:55:04: Fix bug in loss function calculation
