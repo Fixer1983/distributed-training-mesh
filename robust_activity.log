@@ -1140,3 +1140,4 @@ Robust Activity at 2024-11-20T16:55:04: Fix bug in loss function calculation
 Robust Activity at 2024-11-22T14:55:01: Clean up unused variables and functions
 Robust Activity at 2024-11-22T17:28:36: Update README with new performance metrics
 Robust Activity at 2024-11-25T16:28:50: Initial prototype for feature extraction
+Robust Activity at 2024-11-25T18:38:30: Add support for multi-GPU training
