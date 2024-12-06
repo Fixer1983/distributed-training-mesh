@@ -1169,3 +1169,4 @@ Robust Activity at 2024-12-05T13:25:54: Sync with upstream repository changes
 Robust Activity at 2024-12-05T12:22:57: Merge feature branch into main
 Robust Activity at 2024-12-05T13:35:50: Add support for transformer-based models
 Robust Activity at 2024-12-06T10:55:51: Address code review feedback
+Robust Activity at 2024-12-06T10:28:33: Add support for multi-GPU training
