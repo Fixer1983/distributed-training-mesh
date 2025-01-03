@@ -282,3 +282,4 @@ Activity at 2025-01-03T11:24:35: Clean up code and improve readability
 Activity at 2025-01-03T21:33:53: Fix minor bug in data preprocessing script
 Activity at 2025-01-03T12:38:23: Prototype new attention mechanism
 Activity at 2025-01-03T17:30:07: Update requirements.txt with latest stable versions
+Activity at 2025-01-03T14:06:02: Update documentation for RAG implementation
