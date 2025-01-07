@@ -284,3 +284,4 @@ Activity at 2025-01-03T12:38:23: Prototype new attention mechanism
 Activity at 2025-01-03T17:30:07: Update requirements.txt with latest stable versions
 Activity at 2025-01-03T14:06:02: Update documentation for RAG implementation
 Activity at 2025-01-06T11:33:38: Update documentation for RAG implementation
+Activity at 2025-01-06T21:47:11: Refactor core ML pipeline for better scalability
