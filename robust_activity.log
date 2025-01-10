@@ -1216,3 +1216,4 @@ Robust Activity at 2025-01-08T10:10:54: Sync with upstream repository changes
 Robust Activity at 2025-01-10T17:13:41: Sync with upstream repository changes
 Robust Activity at 2025-01-10T12:03:39: Add support for transformer-based models
 Robust Activity at 2025-01-10T11:16:25: Initial prototype for feature extraction
+Robust Activity at 2025-01-10T11:56:11: Add unit tests for core modules
