@@ -30,3 +30,4 @@
 2025 Activity at 2025-01-09T15:14:39: Fix concurrency issue in the data ingestion pipeline
 2025 Activity at 2025-01-09T09:39:49: Update README with 2025 performance benchmarks
 2025 Activity at 2025-01-09T10:28:53: Benchmark inference throughput on latest hardware
+2025 Activity at 2025-01-10T11:48:17: Add support for distributed training across clusters
