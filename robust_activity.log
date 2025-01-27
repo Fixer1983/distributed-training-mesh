@@ -1231,3 +1231,4 @@ Robust Activity at 2025-01-17T13:42:03: Add support for transformer-based models
 Robust Activity at 2025-01-17T11:51:52: Sync with upstream repository changes
 Robust Activity at 2025-01-27T09:54:47: Optimize GPU memory allocation
 Robust Activity at 2025-01-27T16:41:50: Optimize GPU memory allocation
+Robust Activity at 2025-01-27T17:31:14: Benchmark inference latency across devices
