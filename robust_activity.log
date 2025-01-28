@@ -1234,3 +1234,4 @@ Robust Activity at 2025-01-27T16:41:50: Optimize GPU memory allocation
 Robust Activity at 2025-01-27T17:31:14: Benchmark inference latency across devices
 Robust Activity at 2025-01-28T13:58:48: Benchmark inference latency across devices
 Robust Activity at 2025-01-28T18:59:32: Improve model serialization and loading
+Robust Activity at 2025-01-28T13:55:24: Benchmark inference latency across devices
