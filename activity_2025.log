@@ -70,3 +70,4 @@
 2025 Activity at 2025-01-31T14:43:30: Enhance real-time monitoring for model drift
 2025 Activity at 2025-01-31T12:17:25: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-01-31T16:53:55: Address feedback from technical design review
+2025 Activity at 2025-02-03T13:40:18: Add support for multimodal models in inference engine
