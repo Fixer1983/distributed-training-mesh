@@ -103,3 +103,4 @@
 2025 Activity at 2025-02-12T09:51:57: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-02-12T13:41:12: Fix bug in backpropagation for custom layers
 2025 Activity at 2025-02-12T13:41:41: Fix bug in backpropagation for custom layers
+2025 Activity at 2025-02-12T13:16:24: Add support for multimodal models in inference engine
