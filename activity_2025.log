@@ -96,3 +96,4 @@
 2025 Activity at 2025-02-07T11:01:42: Add support for multimodal models in inference engine
 2025 Activity at 2025-02-07T13:04:44: Update README with 2025 performance benchmarks
 2025 Activity at 2025-02-12T14:22:52: Benchmark inference throughput on latest hardware
+2025 Activity at 2025-02-12T19:58:32: Fix bug in backpropagation for custom layers
