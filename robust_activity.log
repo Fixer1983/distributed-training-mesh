@@ -1286,3 +1286,4 @@ Robust Activity at 2025-02-19T14:03:06: Refactor data loader for faster training
 Robust Activity at 2025-02-21T15:34:16: Update README with new performance metrics
 Robust Activity at 2025-02-21T13:50:16: Update README with new performance metrics
 Robust Activity at 2025-02-21T13:07:15: Add support for transformer-based models
+Robust Activity at 2025-02-21T09:52:59: Fix bug in loss function calculation
