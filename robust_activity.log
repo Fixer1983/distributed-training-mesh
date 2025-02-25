@@ -1288,3 +1288,4 @@ Robust Activity at 2025-02-21T13:50:16: Update README with new performance metri
 Robust Activity at 2025-02-21T13:07:15: Add support for transformer-based models
 Robust Activity at 2025-02-21T09:52:59: Fix bug in loss function calculation
 Robust Activity at 2025-02-25T16:16:00: Add support for transformer-based models
+Robust Activity at 2025-02-25T18:43:55: Add unit tests for core modules
