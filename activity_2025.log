@@ -169,3 +169,4 @@
 2025 Activity at 2025-02-28T17:57:40: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-02-28T19:40:27: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-02-28T14:34:29: Update documentation for new LLMOps features
+2025 Activity at 2025-02-28T14:00:26: Optimize memory management for large-scale inference
