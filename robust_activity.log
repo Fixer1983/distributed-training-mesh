@@ -1305,3 +1305,4 @@ Robust Activity at 2025-03-06T14:36:21: Update README with new performance metri
 Robust Activity at 2025-03-06T14:58:08: Improve model serialization and loading
 Robust Activity at 2025-03-06T12:33:16: Refactor data loader for faster training
 Robust Activity at 2025-03-11T09:50:28: Address code review feedback
+Robust Activity at 2025-03-11T17:07:33: Clean up unused variables and functions
