@@ -1335,3 +1335,4 @@ Robust Activity at 2025-03-26T14:25:16: Fix race condition in data pipeline
 Robust Activity at 2025-03-26T12:49:55: Refactor data loader for faster training
 Robust Activity at 2025-03-27T12:16:32: Clean up unused variables and functions
 Robust Activity at 2025-03-27T14:51:00: Optimize neural network architecture
+Robust Activity at 2025-03-27T13:03:26: Add unit tests for core modules
