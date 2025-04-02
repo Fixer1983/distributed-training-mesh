@@ -1348,3 +1348,4 @@ Robust Activity at 2025-04-01T10:43:39: Fix race condition in data pipeline
 Robust Activity at 2025-04-02T16:04:14: Improve documentation for API endpoints
 Robust Activity at 2025-04-02T18:47:28: Initial prototype for feature extraction
 Robust Activity at 2025-04-02T12:06:30: Merge feature branch into main
+Robust Activity at 2025-04-02T17:27:03: Add unit tests for core modules
