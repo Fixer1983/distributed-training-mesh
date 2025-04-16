@@ -1361,3 +1361,4 @@ Robust Activity at 2025-04-16T14:05:42: Refactor data loader for faster training
 Robust Activity at 2025-04-16T17:54:26: Optimize GPU memory allocation
 Robust Activity at 2025-04-16T15:23:05: Update README with new performance metrics
 Robust Activity at 2025-04-16T12:54:26: Optimize GPU memory allocation
+Robust Activity at 2025-04-16T13:41:49: Clean up unused variables and functions
