@@ -1376,3 +1376,4 @@ Robust Activity at 2025-04-24T11:55:58: Initial prototype for feature extraction
 Robust Activity at 2025-04-24T09:29:43: Update dependencies to latest stable versions
 Robust Activity at 2025-04-24T10:47:08: Improve model serialization and loading
 Robust Activity at 2025-04-24T12:11:04: Optimize GPU memory allocation
+Robust Activity at 2025-04-28T18:48:32: Benchmark inference latency across devices
