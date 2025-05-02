@@ -1387,3 +1387,4 @@ Robust Activity at 2025-04-29T13:45:20: Fix bug in loss function calculation
 Robust Activity at 2025-04-30T09:50:47: Add unit tests for core modules
 Robust Activity at 2025-04-30T09:25:28: Refactor data loader for faster training
 Robust Activity at 2025-05-02T16:53:59: Address code review feedback
+Robust Activity at 2025-05-02T11:37:36: Fix bug in loss function calculation
