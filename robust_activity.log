@@ -1389,3 +1389,4 @@ Robust Activity at 2025-04-30T09:25:28: Refactor data loader for faster training
 Robust Activity at 2025-05-02T16:53:59: Address code review feedback
 Robust Activity at 2025-05-02T11:37:36: Fix bug in loss function calculation
 Robust Activity at 2025-05-05T10:45:35: Add support for multi-GPU training
+Robust Activity at 2025-05-05T12:03:37: Improve documentation for API endpoints
