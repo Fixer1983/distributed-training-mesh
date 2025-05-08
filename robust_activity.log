@@ -1399,3 +1399,4 @@ Robust Activity at 2025-05-06T15:04:40: Fix bug in loss function calculation
 Robust Activity at 2025-05-06T15:20:42: Clean up unused variables and functions
 Robust Activity at 2025-05-06T14:06:35: Implement early stopping in training loop
 Robust Activity at 2025-05-06T18:15:50: Improve model serialization and loading
+Robust Activity at 2025-05-08T09:50:07: Add support for transformer-based models
