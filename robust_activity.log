@@ -1406,3 +1406,4 @@ Robust Activity at 2025-05-08T18:00:48: Benchmark inference latency across devic
 Robust Activity at 2025-05-09T09:31:16: Merge feature branch into main
 Robust Activity at 2025-05-09T09:54:04: Merge feature branch into main
 Robust Activity at 2025-05-09T17:30:43: Initial prototype for feature extraction
+Robust Activity at 2025-05-09T17:28:08: Fix bug in loss function calculation
