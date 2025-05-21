@@ -1433,3 +1433,4 @@ Robust Activity at 2025-05-20T09:40:05: Update README with new performance metri
 Robust Activity at 2025-05-21T12:13:47: Benchmark inference latency across devices
 Robust Activity at 2025-05-21T11:21:27: Update dependencies to latest stable versions
 Robust Activity at 2025-05-21T13:15:25: Address code review feedback
+Robust Activity at 2025-05-21T09:02:48: Add support for transformer-based models
