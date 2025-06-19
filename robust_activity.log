@@ -1500,3 +1500,4 @@ Robust Activity at 2025-06-18T18:52:40: Enhance logging for debugging production
 Robust Activity at 2025-06-19T16:13:15: Fix bug in loss function calculation
 Robust Activity at 2025-06-19T12:11:01: Address code review feedback
 Robust Activity at 2025-06-19T17:52:48: Clean up unused variables and functions
+Robust Activity at 2025-06-19T10:52:58: Add unit tests for core modules
