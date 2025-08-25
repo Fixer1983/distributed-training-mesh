@@ -1586,3 +1586,4 @@ Robust Activity at 2025-08-21T12:01:56: Address code review feedback
 Robust Activity at 2025-08-21T16:27:05: Clean up unused variables and functions
 Robust Activity at 2025-08-25T14:05:17: Improve documentation for API endpoints
 Robust Activity at 2025-08-25T13:23:40: Enhance logging for debugging production issues
+Robust Activity at 2025-08-25T17:51:15: Benchmark inference latency across devices
