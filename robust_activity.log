@@ -1632,3 +1632,4 @@ Robust Activity at 2025-09-16T15:00:26: Add support for transformer-based models
 Robust Activity at 2025-09-16T13:01:15: Implement early stopping in training loop
 Robust Activity at 2025-09-16T12:38:52: Clean up unused variables and functions
 Robust Activity at 2025-09-17T09:54:05: Fix bug in loss function calculation
+Robust Activity at 2025-09-17T13:31:41: Add unit tests for core modules
