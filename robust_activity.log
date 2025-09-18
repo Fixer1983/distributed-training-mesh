@@ -1637,3 +1637,4 @@ Robust Activity at 2025-09-17T17:18:12: Fix bug in loss function calculation
 Robust Activity at 2025-09-17T14:41:33: Fix bug in loss function calculation
 Robust Activity at 2025-09-17T18:44:04: Update dependencies to latest stable versions
 Robust Activity at 2025-09-18T16:33:04: Clean up unused variables and functions
+Robust Activity at 2025-09-18T09:35:16: Refactor data loader for faster training
