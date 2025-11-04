@@ -1709,3 +1709,4 @@ Robust Activity at 2025-10-29T17:15:53: Update README with new performance metri
 Robust Activity at 2025-11-04T10:56:32: Benchmark inference latency across devices
 Robust Activity at 2025-11-04T13:10:22: Refactor data loader for faster training
 Robust Activity at 2025-11-04T17:32:07: Improve model serialization and loading
+Robust Activity at 2025-11-04T13:16:11: Improve documentation for API endpoints
