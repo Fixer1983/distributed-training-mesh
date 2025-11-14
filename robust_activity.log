@@ -1722,3 +1722,4 @@ Robust Activity at 2025-11-11T12:16:11: Add support for transformer-based models
 Robust Activity at 2025-11-11T17:38:23: Initial prototype for feature extraction
 Robust Activity at 2025-11-14T12:56:56: Update README with new performance metrics
 Robust Activity at 2025-11-14T16:15:20: Merge feature branch into main
+Robust Activity at 2025-11-14T12:26:10: Optimize GPU memory allocation
