@@ -1736,3 +1736,4 @@ Robust Activity at 2025-11-19T13:26:45: Optimize GPU memory allocation
 Robust Activity at 2025-11-19T18:51:03: Improve model serialization and loading
 Robust Activity at 2025-11-20T12:13:03: Add unit tests for core modules
 Robust Activity at 2025-11-20T10:48:24: Update README with new performance metrics
+Robust Activity at 2025-11-20T17:45:40: Add unit tests for core modules
