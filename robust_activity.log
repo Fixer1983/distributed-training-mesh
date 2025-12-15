@@ -1771,3 +1771,4 @@ Robust Activity at 2025-12-09T09:23:22: Optimize GPU memory allocation
 Robust Activity at 2025-12-11T09:41:09: Initial prototype for feature extraction
 Robust Activity at 2025-12-11T14:32:37: Initial prototype for feature extraction
 Robust Activity at 2025-12-15T12:25:50: Refactor data loader for faster training
+Robust Activity at 2025-12-15T18:25:06: Clean up unused variables and functions
