@@ -1816,3 +1816,4 @@ Robust Activity at 2026-01-07T17:48:53: Update README with new performance metri
 Robust Activity at 2026-01-07T09:20:49: Sync with upstream repository changes
 Robust Activity at 2026-01-13T09:58:22: Benchmark inference latency across devices
 Robust Activity at 2026-01-13T14:39:00: Merge feature branch into main
+Robust Activity at 2026-01-19T16:08:05: Add unit tests for core modules
