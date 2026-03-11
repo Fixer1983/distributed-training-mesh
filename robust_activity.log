@@ -1905,3 +1905,4 @@ Robust Activity at 2026-03-11T12:11:14: Optimize GPU memory allocation
 Robust Activity at 2026-03-11T12:56:24: Benchmark inference latency across devices
 Robust Activity at 2026-03-11T14:05:25: Initial prototype for feature extraction
 Robust Activity at 2026-03-11T14:50:07: Clean up unused variables and functions
+Robust Activity at 2026-03-11T15:39:45: Update README with new performance metrics
