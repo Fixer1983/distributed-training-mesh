@@ -1,0 +1,1 @@
+# distributed-training-mesh\n\nA lightweight mesh for distributing deep learning training across heterogeneous clusters.\n\n![PyTorch](https://img.shields.io/badge/framework-PyTorch-red)\n\n## Usage\n```bash\ntorchrun --nproc_per_node=4 main.py\n```
